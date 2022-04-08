@@ -27,8 +27,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableAndException", "Nul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{BE4C905F-BA76-4DE0-8269-18EE95BE491D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{B9F28FAC-09CD-4E00-B8C4-A2C1FA5201C6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,10 +81,6 @@ Global
 		{BE4C905F-BA76-4DE0-8269-18EE95BE491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE4C905F-BA76-4DE0-8269-18EE95BE491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE4C905F-BA76-4DE0-8269-18EE95BE491D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9F28FAC-09CD-4E00-B8C4-A2C1FA5201C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9F28FAC-09CD-4E00-B8C4-A2C1FA5201C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9F28FAC-09CD-4E00-B8C4-A2C1FA5201C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9F28FAC-09CD-4E00-B8C4-A2C1FA5201C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
