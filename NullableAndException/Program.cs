@@ -27,6 +27,7 @@ namespace NullableAndException
                 #endregion
                 Console.WriteLine("enter an integer value: ");
                 a = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
 
 //#warning: after few lines you will find an error
                 Months months = Months.Mar;
