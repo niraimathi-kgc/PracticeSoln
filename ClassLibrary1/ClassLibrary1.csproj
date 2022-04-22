@@ -5,7 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BasicsForKarthik\StackConcept.csproj" />
     <ProjectReference Include="..\CalculatorApplication\CalculatorApplication.csproj" />
+    <ProjectReference Include="..\ExtensionMethod\ExtensionMethod.csproj" />
+    <ProjectReference Include="..\NullableAndException\NullableAndException.csproj" />
+    <ProjectReference Include="..\OopsConceptPractice\StaticClassPractice.csproj" />
+    <ProjectReference Include="..\SealedClassEx\SealedClassEx.csproj" />
+    <ProjectReference Include="..\StructureSample\StructureSample.csproj" />
+    <ProjectReference Include="..\W3schoolsPractice\W3schoolsPractice.csproj" />
   </ItemGroup>
 
 </Project>
