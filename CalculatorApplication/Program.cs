@@ -53,7 +53,7 @@ namespace CalculatorApplication
                 i = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine();
             } while (i==1);
-            call2.sub();
+            
         }
     }
 }

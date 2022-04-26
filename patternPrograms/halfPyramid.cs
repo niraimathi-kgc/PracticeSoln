@@ -19,6 +19,9 @@ namespace patternPrograms
                 }
                 Console.WriteLine();
             }
+            Console.ReadLine();
+            Console.ReadKey();
+            Console.Read();
         }
     }
 }
