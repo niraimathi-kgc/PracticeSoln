@@ -15,8 +15,8 @@ namespace CalculatorApplication
             Calculate5 call5 = new Calculate5();
             do
             {
-                
-                
+
+
                 Console.WriteLine("-------------------------------------------------------");
                 Console.WriteLine("\tSIMPLE CALCULATOR USING C#");
                 Console.WriteLine("-------------------------------------------------------");
@@ -52,8 +52,8 @@ namespace CalculatorApplication
                 Console.Write("To Continue... Press 1 or press eny key to exit: ");
                 i = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine();
-            } while (i==1);
-            
+            } while (i == 1);
+
         }
     }
 }
