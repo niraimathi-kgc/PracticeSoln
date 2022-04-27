@@ -4,7 +4,7 @@ namespace W3schoolsPractice
 {
     class Null1
     {
-        private string inacc = "InAccessible";
+       // private string inacc = "InAccessible";
     }
     class Program
     {

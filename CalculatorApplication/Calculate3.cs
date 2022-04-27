@@ -2,7 +2,7 @@
 
 namespace CalculatorApplication
 {
-    class Calculate3
+    public class Calculate3
     {
         public void multi()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CalculatorApplication
 {
-    class Calculate5
+    public class Calculate5
     {
         public void modulo()
         {

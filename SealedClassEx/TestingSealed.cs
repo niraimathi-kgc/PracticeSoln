@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SealedClassEx
 {
-   sealed  class TestingSealed : CreatedForSeal
+   /*sealed*/  class TestingSealed : CreatedForSeal
     {
       //  Console.WriteLine("sealed class cannot be derived...!");
     }

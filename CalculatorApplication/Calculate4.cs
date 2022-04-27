@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CalculatorApplication
 {
-    class Calculate4
+    public class Calculate4
     {
         public void divide()
         {

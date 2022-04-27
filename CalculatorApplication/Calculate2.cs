@@ -2,7 +2,7 @@
 
 namespace CalculatorApplication
 {
-    class Calculate2
+   public class Calculate2
     {
         public void sub()
         {
