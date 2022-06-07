@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "numberPatternPrograms": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

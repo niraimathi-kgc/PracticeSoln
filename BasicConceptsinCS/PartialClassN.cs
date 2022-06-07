@@ -4,6 +4,7 @@ using System.Text;
 
 namespace BasicConceptsinCS
 {
+    
     partial class PartialClassN
     {
         public void Part2()

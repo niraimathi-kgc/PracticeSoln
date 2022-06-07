@@ -7,7 +7,8 @@ namespace BasicConceptsinCS
     abstract class AbstractCls
     {
         public abstract void Abs();
-        
+
+
     }
     class Abs2 : AbstractCls
     {

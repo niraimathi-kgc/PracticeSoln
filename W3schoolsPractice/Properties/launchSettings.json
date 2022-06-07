@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "W3schoolsPractice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

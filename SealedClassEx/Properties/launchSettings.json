@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SealedClassEx": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

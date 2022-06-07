@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StaticClassPractice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

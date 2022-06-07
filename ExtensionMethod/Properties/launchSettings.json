@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExtensionMethod": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

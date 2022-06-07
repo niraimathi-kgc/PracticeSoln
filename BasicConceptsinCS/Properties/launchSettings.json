@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BasicConceptsinCS": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

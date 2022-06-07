@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NullableAndException": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
